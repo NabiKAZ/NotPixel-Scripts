@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "centrifuge": "^5.2.2",
+    "fs": "^0.0.1-security",
+    "ws": "^8.18.0"
+  }
+}
